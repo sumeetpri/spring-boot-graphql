@@ -1,1 +1,1 @@
-# spring-boot-graphql
+# Spring Boot and GraphQL Boook Example
